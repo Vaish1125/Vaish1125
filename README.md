@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaishnavi</h1>
-<h3 align="center">Front-End Developer | Tech Explorer</h3>
-
----
-
-### 👩‍💻 About Me
-
-- I’m building personal projects to strengthen my front-end skills
-- I’m open to **internship opportunities** in web development
+<h1 align="left">Hi 👋, I'm Vaishnavi</h1>
 
 ---
 
