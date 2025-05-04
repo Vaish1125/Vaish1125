@@ -34,9 +34,6 @@
   </a>
 </p>
 
-- 📧 vaish.bhosale1125@gmail.com  
-- 💼 www.linkedin.com/in/vaishnavi-bhosale-pict27
-
 ---
 
 ### 📊 GitHub Stats
