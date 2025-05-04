@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vaishnavi</h1>
 
-### 📊 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaish1125&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviBhosalee&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 <!--
