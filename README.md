@@ -25,15 +25,24 @@
 
 ### 📫 How to reach me
 
+<p align="left">
+  <a href="mailto:vaish.bhosale1125@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavi-bhosale-pict27" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 - 📧 vaish.bhosale1125@gmail.com  
-- 💼 [LinkedIn] www.linkedin.com/in/vaishnavi-bhosale-pict27
+- 💼 www.linkedin.com/in/vaishnavi-bhosale-pict27
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi123&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaish1125&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 <!--
