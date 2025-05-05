@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Vaishnavi</h1>
-
+<!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviBhosalee&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
-
+-->
 <!--
 **Vaish1125/Vaish1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
